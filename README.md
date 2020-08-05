@@ -3,7 +3,7 @@ data science summer research at Augie for Habitat Suitability Index data
 
 ## Study Area:
 
-![](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/nccr_PCA_ROC_all.png)
+![](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/STUDY_AREA_MAP.jpg)
 
 
 
