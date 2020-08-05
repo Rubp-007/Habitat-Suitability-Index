@@ -1,7 +1,13 @@
 # Habitat-Suitability-Index
 data science summer research at Augie for Habitat Suitability Index data
 
-## NCCR dataset:
+## Study Area:
+
+![](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/nccr_PCA_ROC_all.png)
+
+
+
+## NCCR Dataset:
 ROC:
 
 ![NCCR ROC](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/nccr_PCA_ROC_all.png)
@@ -10,3 +16,14 @@ ROC:
 AUC:
 
 ![NCCR AUC](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/nccr_PCA_ROC_all_bar.png)
+
+
+## FB Dataset:
+ROC:
+
+![FB ROC](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/fb_PCA_ROC_all.png)
+
+
+AUC:
+
+![FB AUC](https://github.com/Rubp-007/Habitat-Suitability-Index/blob/master/fb_PCA_ROC_all_bar.png)
